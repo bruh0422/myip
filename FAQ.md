@@ -6,7 +6,8 @@ cus it's ur ip
 protip: hit F12 and go to the "Console" tab to see ur real IP
 
 ## why is the page white
-it's the default color, or u cant install Dark Reader to make it black
+it's the default color, or u cant install [Dark Reader](https://darkreader.org/) to make it black\
+or visit https://myip-dark.pages.dev/ (thanks [@Godwhite](https://github.com/GodwhiteTaiwan))
 
 ## Support Server
 https://discord.com/invite/roblox

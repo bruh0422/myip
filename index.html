@@ -1,38 +1,61 @@
 <!DOCTYPE html>
 <html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <title>What is my IP?</title>
     <style>
-        body {
-            display: flex;
-            justify-content: center;
-            align-items: center;
-            height: 100vh;
-            margin: 0;
-        }
+      body {
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        height: 100vh;
+        margin: 0;
+        background-image: url("https://tuapi.eees.cc/api.php?category=dongman&type=302");
+        font-family: sans-serif;
+      }
 
-        h1 {
-            font-size: 10vw;
-        }
+      h1 {
+        font-size: 10vw;
+        color: dodgerblue;
+        -webkit-text-stroke: 3px black;
+        text-stroke: 3px black;
+      }
+
+      .glass {
+        background: rgba(255, 255, 255, 0.2);
+        border-radius: 16px;
+        box-shadow: 0 4px 30px rgba(0, 0, 0, 0.1);
+        backdrop-filter: blur(5px);
+        -webkit-backdrop-filter: blur(5px);
+        border: 1px solid rgba(255, 255, 255, 0.3);
+      }
     </style>
-</head>
-<body>
-    <a href="https://github.com/bruh0422/myip" style="position: absolute; top: 10px; right: 10px;">
-        <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" alt="GitHub" width="50" height="50">
+  </head>
+  <body>
+    <a
+      href="https://github.com/bruh0422/myip"
+      style="position: absolute; top: 10px; right: 10px"
+    >
+      <img
+        src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png"
+        alt="GitHub"
+        width="50"
+        height="50"
+        style="border-radius: 360px"
+      />
     </a>
+    <div class="glass"><h1>127.0.0.1</h1></div>
 
-    <h1>127.0.0.1</h1>
     <script>
-        async function getIP() {
-            try {
-                const response = await fetch('https://api.ipify.org?format=json');
-                const data = await response.json();
-                console.log(`Lol your IP is actually ${data.ip}`);
-            } catch (error) {}
-        }
-        getIP();
+      async function getIP() {
+        try {
+          const response = await fetch("https://api.ipify.org?format=json");
+          const data = await response.json();
+          console.log(`Lol your IP is actually ${data.ip}`);
+        } catch (error) {}
+      }
+      getIP();
     </script>
-</body>
+  </body>
 </html>

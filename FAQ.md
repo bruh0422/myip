@@ -6,218 +6,221 @@ cus it's ur ip
 protip: hit F12 and go to the "Console" tab to see ur real IP
 
 ## why is the page white
-it's the default color, or u cant install [Dark Reader](https://darkreader.org/) to make it black\
-or visit https://myip-dark.pages.dev/ (thanks [@Godwhite](https://github.com/GodwhiteTaiwan))
+it's the default color, or u cant install Dark Reader to make it black
 
 ## Support Server
 https://discord.com/invite/roblox
 
-## Feedback
-name@email.com
+ 
 
 ## Should I use Apache or Nginx?
-Both of them is okay
+[u should use Pterodactyl Panel](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
 
 ## Which PHP version to use
-Any PHP is Okay
+version ∞
+
 
 ## Which panel should I use? (DirectAdmin,cPanel...)
-Any Panel Is Okay
+[google](https://www.youtube.com/watch?v=dQw4w9WgXcQ) is the best panel
 
 ## Can Under 13 User Use This?
-Yes
+yes
+
+## Can Under 13 Children Eat This?
+yes
 
 ## Is this open source?
-Yes
+yes, on [GitHub](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
 
 ## Can i use this without credit
-Yes
+yes
 
 ## Does this project has a license
-Yes
+yes
 
 ## Do i need pay to use this?
-No
+no
 
 ## Is this project associated With MOJANG?
-No
+no
 
 ## Is this project associated With Microsoft?
-No
+no
 
 ## Will i get sued if i use this without credit?
-No
+no
 
 ## Does this has other languages?
-No
+no
 
 ## Is this offical website?
 yes, pls visit https://myip.bruh0422.xyz/
 
 ## Can i fork this?
-Yes
+yes
 
 ## Can i star this?
-Yes
+yes
 
 ## Which System I should use when i deploy it?
-Any System
-
+[SteamOS](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
 ## Does it supports Windows 7?
-Yes
+yes
 
 ## Does it supports Windows 8?
-Yes
+yes
 
 ## Does it supports Windows 8.1?
-Yes
+yes
 
 ## Does it supports Windows RT 8?
-Yes
+yes
 
 ## Does it supports Windows 10?
-Yes
+yes
 
 ## Does it supports Windows 11?
-Yes
+yes
 
 ## Does it supports Windows 10 for ARM?
-Yes
+yes
 
 ## Does it supports Windows 11 for ARM?
-Yes
+yes
 
 ## Does it supports Debian?
-Yes
+yes
 
 ## Does it supports Ubuntu?
-Yes
+yes
 
 ## Does it supports Linux?
-Yes
+yes
 
 ## Does it supports Darwin?
-Yes
+yes
 
 ## Does it supports MacOS?
-Yes
+yes
 
 ## Does it supports iOS?
-Yes
+yes
 
 ## Does it supports MacOS Big Sur?
-Yes
+yes
 
 ## Does it supports MacOS Monterey?
-Yes
+yes
 
 ## Does it supports MacOS X?
-Yes
+yes
 
 ## Does it supports Windows XP?
-Yes
+yes
 
 ## Does it supports watchOS?
-Yes
+yes
 
 ## Does it supports iPadOS?
-Yes
+yes
 
 ## Does it supports Linux Kernel 4.19+
-Yes
+yes
 
 ## Does it supports Android Based System?
-Yes
+yes
 
 ## Where i can sponsor this project?
 paypal.me/
 
 ## Does it supports Laptop?
-Yes
+yes yes
+
+
 
 ## Does it supports Computer?
-Yes
+yes
 
 ## Does it supports Phone?
-Yes
+yes
 
 ## Does it supports Tablet?
-Yes
+yes
 
 ## Does it supports x86 based computer?
-Yes
+yes
 
 ## Does it supports x64 based computer?
-Yes
+yes
 
 ## Does it supports ARM based computer?
-Yes
+yes
 
 ## Does it supports ARMv7 based computer?
-Yes
+yes
 
 ## Does it works on Internet Explorer?
-Yes
+yes
 
 ## Does it works on Microsoft Edge?
-Yes
+yes
 
 ## Does it works on Mozilla Firefox?
-Yes
+yes
 
 ## Does it works on Netscape?
-Yes
+yes
 
 ## Does it supports x86 based laptop?
-Yes
+yes
 
 ## Does it supports x64 based laptop?
-Yes
+yes
 
 ## Does it supports ARM based laptop?
-Yes
+yes
 
 ## Does it supports ARMv7 based laptop?
-Yes
+yes
 
 ## Does it supports RISC-V based laptop?
-Yes
+yes
 
 ## Does it supports RISC-V based computer?
-Yes
+yes
 
 ## Does it works under 2GB RAM?
-Yes
+yes
 
 ## Does it works with Celeron?
-Yes
+yes
 
 ## Does it works with Intel GPU?
-Yes
+yes
 
 ## Does it works with NVIDIA GPU?
-Yes
+yes
 
 ## Does it works with AMD GPU?
-Yes
+yes
 
 ## Does it works with LOONGSON CPU?
-Yes
+yes
 
 ## Does it works with 摩尔线程 GPU?
-Yes
+yes
 
 ## Does it works with AMD CPU?
-Yes
+yes
 
 ## Does it works with Intel CPU?
-Yes
+yes
 
 ## Does it works with NVIDIA CPU?
-Yes
+yes
 
 ## Does it works with CPU Under 1Ghz?
-Yes
+yes
 
 ## How many cores it needs?
 Atleast 1
@@ -226,576 +229,576 @@ Atleast 1
 Atleast 1
 
 ## Does it works on Samsung CPU?
-Yes
+yes
 
 ## Does it works on Samsung Smart Fridge?
-Yes
+yes
 
 ## Does it works on Google Tensor CPU?
-Yes
+yes
 
 ## Does it works on Qualcomm CPU?
-Yes
+yes
 
 ## Is it powered by flash or html5?
-HTML5
+powered by scratch
 
 ## Does it use Javascript?
-Yes
+yes
 
 ## Does it use Lua?
-No
+no
 
 ## Does it use C++?
-No
+no
 
 ## Does it use C#?
-No
+no
 
 ## Does it use Scratch3?
-No
+no
 
 ## Does it use Scratch2?
-No
+no
 
 ## Does it use EMCAScript?
-No
+no
 
 ## Does it use x86-assemblty?
-No
+no
 
 ## Does it use Go?
-No
+no
 
 ## Does it use Luau?
-No
+no
 
 ## Does it use C?
-No
+no
 
 ## Does it use Visual Basic?
-No
+no
 
 ## Does it use TypeScript?
-No
+no
 
 ## Does it use PHP?
-No
+no
 
 ## Does it use CoffeeScript?
-No
+no
 
 ## Can i run it on pterodactyl?
-Yes
+yes
 
 ## Can i run it on docker?
-Yes
+yes
 
 ## Can i run it on EasyPanel?
-Yes
+yes
 
 ## Does it use Java?
-No
+no
 
 ## Does it use Kotlin?
-No
+no
 
 ## Does it use R?
-No
+no
 
 ## Does it use SQL?
-No
+no
 
 ## Does it use Python?
-No
+no
 
 ## Does it use Perl?
-No
+no
 
 ## Does it use Swift?
-No
+no
 
 ## Does it use Rust?
-No
+no
 
 ## Does it use Objective-C?
-No
+no
 
 ## Does it use Pascal?
-No
+no
 
 ## Does it need .NET Framework 4.8?
-No
+no
 
 ## Does it has SQL Injection Problem?
-No
+no
 
 ## Does it has XXS Injection Problem?
-No
+no
 
 ## Do i need use it with MongoDB?
-No
+no
 
 ## Do i need use it with Redis?
-No
+no
 
 ## Does it use Haskell?
-No
+no
 
 ## Does it use Scala?
-No
+no
 
 ## Does it use Elixir?
-No
+no
 
 ## Does it use Julia?
-No
+no
 
 ## Does it use Groovy?
-No
+no
 
 ## Does it use F#?
-No
+no
 
 ## Does it use shell language(.sh...)
-No
+no
 
 ## Does it use ActionScript?
-No
+no
 
 ## Does it use Powershell?
-No
+no
 
 ## Does it use AutoHotKey?
-No
+no
 
 ## Does it use GDScript?
-No
+no
 
 ## Does it use GLSL?
-No
+no
 
 ## Does it use HLSL?
-No
+no
 
 ## Does it use Cg?(NVIDIA C-Based Shader Language)
-No
+no
 
 ## Can i open it in Microsoft Word?
 Maybe
 
 ## Does it use Dockerfile?
-No
+no
 
 ## Does it use .NET Core?
-No
+no
 
 ## Does it use .NET 5?
-No
+no
 
 ## Does it use .NET 6?
-No
+no
 
 ## Does it use .NET 7?
-No
+no
 
 ## Does it use .NET 8?
-No
+no
 
 ## Does it use .NET 9?
-No
+no
 
 ## Does it use .NET 10?
-No
+no
 
 ## Does it use LuaJIT?
-No
+no
 
 ## Does it use V8?
-No
+no
 
 ## Does it use SpiderMonkey?
-No
+no
 
 ## Does it use ChakraCore?
-No
+no
 
 ## Does it use Nashorn?
-No
+no
 
 ## Does it use Rhino?
-No
+no
 
 ## Does it use GraalVM?
-No
+no
 
 ## Does it use JScript?
-No
+no
 
 ## Does it use VBA?
-No
+no
 
 ## Does it use VBScript?
-No
+no
 
 ## Does it use WSH?
-No
+no
 
 ## Does it use JScript.NET?
-No
+no
 
 ## Does it use IronPython?
-No
+no
 
 ## Does it use IronRuby?
-No
+no
 
 ## Does it use Boo?
-No
+no
 
 ## Does it use Cobra?
-No
+no
 
 ## Does it use D?
-No
+no
 
 ## Does it use Eiffel?
-No
+no
 ## Does it use Elm?
-No
+no
 ## Does it use Erlang?
-No
+no
 ## Can i use it with Windows 95?
-Yes
+yes
 ## Can i use it with Windows 98?
-Yes
+yes
 ## Can i use it with Windows ME?
-Yes
+yes
 ## Can i use it with Windows 2000?
-Yes
+yes
 ## Can I use it with Windows Vista?
-Yes
+yes
 ## Can I use it with Windows 3.1?
-Yes
+yes
 ## Can I use it with MS-DOS?
-Yes
+yes
 ## Can I use it with FreeDOS?
-Yes
+yes
 ## Can I use it with OS/2?
-Yes
+yes
 ## Can I use it with BeOS?
-Yes
+yes
 ## Can I use it with Haiku OS?
-Yes
+yes
 ## Can I use it with AmigaOS?
-Yes
+yes
 ## Can I use it with Atari TOS?
-Yes
+yes
 ## Can I use it with RISC OS?
-Yes
+yes
 ## Can I use it with Plan 9?
-Yes
+yes
 ## Can I use it with AIX?
-Yes
+yes
 ## Can I use it with HP-UX?
-Yes
+yes
 ## Can I use it with Solaris?
-Yes
+yes
 ## Can I use it with OpenVMS?
-Yes
+yes
 ## Can I use it with IRIX?
-Yes
+yes
 ## Can I use it with QNX?
-Yes
+yes
 ## Can I use it with MINIX?
-Yes
+yes
 ## Can I use it with ReactOS?
-Yes
+yes
 ## Can I use it with TempleOS?
-Yes
+yes
 ## Can I use it with DOSBox?
-Yes
+yes
 ## Can I use it with VirtualBox?
-Yes
+yes
 ## Can I use it with VMware?
-Yes
+yes
 ## Can I use it with Parallels?
-Yes
+yes
 ## Can I use it with Hyper-V?
-Yes
+yes
 ## Can I use it with KVM?
-Yes
+yes
 ## Can I use it with Xen?
-Yes
+yes
 ## Can I use it with OpenStack?
-Yes
+yes
 ## Can I use it with Proxmox?
-Yes
+yes
 ## Can I use it with Virtual PC?
-Yes
+yes
 ## Can I use it with QEMU?
-Yes
+yes
 ## Can I use it with Wine?
-Yes
+yes
 ## Can I use it with CrossOver?
-Yes
+yes
 ## Can I use it with PlayOnLinux?
-Yes
+yes
 ## Can I use it with Lutris?
-Yes
+yes
 ## Can I use it with Proton?
-Yes
+yes
 ## Can I use it with SteamOS?
-Yes
+yes
 ## Can I use it with Chrome OS?
-Yes
+yes
 ## Can I use it with Chromium OS?
-Yes
+yes
 ## Can I use it with Remix OS?
-Yes
+yes
 ## Can I use it with Phoenix OS?
-Yes
+yes
 ## Can I use it with Bliss OS?
-Yes
+yes
 ## Can I use it with PrimeOS?
-Yes
+yes
 ## Can I use it with Android-x86?
-Yes
+yes
 ## Can I use it with LineageOS?
-Yes
+yes
 ## Can I use it with GrapheneOS?
-Yes
+yes
 ## Can I use it with /e/OS?
-Yes
+yes
 ## Can I use it with Sailfish OS?
-Yes
+yes
 ## Can I use it with Tizen?
-Yes
+yes
 ## Can I use it with KaiOS?
-Yes
+yes
 ## Can I use it with Ubuntu Touch?
-Yes
+yes
 ## Can I use it with Plasma Mobile?
-Yes
+yes
 ## Can I use it with postmarketOS?
-Yes
+yes
 ## Can I use it with LuneOS?
-Yes
+yes
 ## Can I use it with webOS?
-Yes
+yes
 ## Can I use it with Firefox OS?
-Yes
+yes
 ## Can I use it with MeeGo?
-Yes
+yes
 ## Can I use it with Maemo?
-Yes
+yes
 ## Can I use it with Symbian?
-Yes
+yes
 ## Can I use it with BlackBerry OS?
-Yes
+yes
 ## Can I use it with Palm OS?
-Yes
+yes
 ## Can I use it with Windows Mobile?
-Yes
+yes
 ## Can I use it with Windows Phone?
-Yes
+yes
 ## Can I use it with HarmonyOS?
-Yes
+yes
 ## Can I use it with Fuchsia?
-Yes
+yes
 ## Can I use it with OpenHarmony?
-Yes
+yes
 ## Can I use it with OpenWrt?
-Yes
+yes
 ## Can I use it with pfSense?
-Yes
+yes
 ## Can I use it with OPNsense?
-Yes
+yes
 ## Can I use it with VyOS?
-Yes
+yes
 ## Can I use it with ClearOS?
-Yes
+yes
 ## Can I use it with Zentyal?
-Yes
+yes
 ## Can I use it with Endian?
-Yes
+yes
 ## Can I use it with IPFire?
-Yes
+yes
 ## Can I use it with Smoothwall?
-Yes
+yes
 ## Can I use it with Untangle?
-Yes
+yes
 ## Can I use it with Sophos UTM?
-Yes
+yes
 ## Can I use it with FortiOS?
-Yes
+yes
 ## Can I use it with Junos OS?
-Yes
+yes
 ## Can I use it with Cisco IOS?
-Yes
+yes
 ## Can I use it with MikroTik RouterOS?
-Yes
+yes
 ## Can I use it with OpenBSD?
-Yes
+yes
 ## Can I use it with FreeBSD?
-Yes
+yes
 ## Can I use it with NetBSD?
-Yes
+yes
 ## Can I use it with DragonFly BSD?
-Yes
+yes
 ## Can I use it with TrueNAS?
-Yes
+yes
 ## Can I use it with FreeNAS?
-Yes
+yes
 ## Can I use it with OpenIndiana?
-Yes
+yes
 ## Can I use it with SmartOS?
-Yes
+yes
 ## Can I use it with OmniOS?
-Yes
+yes
 ## Can I use it with Tribblix?
-Yes
+yes
 ## Can I use it with illumos?
-Yes
+yes
 ## Can I use it with NexentaStor?
-Yes
+yes
 ## Can I use it with a toaster?
-No
+no
 ## Can I use it with a microwave?
-No
+no
 ## Can I use it with a washing machine?
-No
+no
 ## Can I use it with a blender?
-No
+no
 ## Can I use it with a vacuum cleaner?
-No
+no
 ## Can I use it with a smart light bulb?
-No
+no
 ## Can I use it with a smart thermostat?
-No
+no
 ## Can I use it with a smart doorbell?
-No
+no
 ## Can I use it with a smart lock?
-No
+no
 ## Can I use it with a smart speaker?
-No
+no
 ## Can I use it with a smart TV?
-No
+no
 ## Can I use it with a smart refrigerator?
-No
+no
 ## Can I use it with a smart oven?
-No
+no
 ## Can I use it with a smart coffee maker?
-No
+no
 ## Can I use it with a smart air purifier?
-No
+no
 ## Can I use it with a smart fan?
-No
+no
 ## Can I use it with a smart air conditioner?
-No
+no
 ## Can I use it with a smart heater?
-No
+no
 ## Can I use it with a smart humidifier?
-No
+no
 ## Can I use it with a smart dehumidifier?
-No
+no
 ## Can I use it with a smart water heater?
-No
+no
 ## Can I use it with a smart sprinkler system?
-No
+no
 ## Can I use it with a smart garage door opener?
-No
+no
 ## Can I use it with a smart security camera?
-No
+no
 ## Can I use it with a smart smoke detector?
-No
+no
 ## Can I use it with a smart carbon monoxide detector?
-No
+no
 ## Can I use it with a smart baby monitor?
-No
+no
 ## Can I use it with a smart pet feeder?
-No
+no
 ## Can I use it with a smart pet door?
-No
+no
 ## Can I use it with a smart bed?
-No
+no
 ## Can I use it with a smart mattress?
-No
+no
 ## Can I use it with a smart pillow?
-No
+no
 ## Can I use it with a smart mirror?
-No
+no
 ## Can I use it with a smart scale?
-No
+no
 ## Can I use it with a smart toothbrush?
-No
+no
 ## Can I use it with a smart hairbrush?
-No
+no
 ## Can I use it with a smart showerhead?
-No
+no
 ## Can I use it with a smart toilet?
-No
+no
 ## Can I use it with a smart bidet?
-No
+no
 ## Can I use it with a smart faucet?
-No
+no
 ## Can I use it with a smart soap dispenser?
-No
+no
 ## Can I use it with a smart trash can?
-No
+no
 ## Can I use it with a smart lawn mower?
-No
+no
 ## Can I use it with a smart grill?
-No
+no
 ## Can I use it with a smart smoker?
-No
+no
 ## Can I use it with a smart wine cooler?
-No
+no
 ## Can I use it with a smart ice maker?
-No
+no
 ## Can I use it with a smart water filter?
-No
+no
 ## Can I use it with a smart water bottle?
-No
+no
 ## Can I use it with a smart luggage?
-No
+no
 ## Can I use it with a smart umbrella?
-No
+no
 ## Can I use it with a smart bike?
-No
+no
 ## Can I use it with a smart scooter?
-No
+no
 ## Can I use it with a smart skateboard?
-No
+no
 ## Can I use it with a smart surfboard?
-No
+no
 ## Can I use it with a smart kayak?
-No
+no
 ## Can I use it with a smart tent?
-No
+no
 ## Can I use it with a smart sleeping bag?
-No
+no
 ## Can I use it with a smart flashlight?
-No
+no
 ## Can I use it with a smart lantern?
-No
+no
 ## Can I use it with a drone?
-No
+no
 ## Does this design for adult
-Yes
+yes
 ## Does this design for child
-Yes
+yes
 ## Does this design for teenager
-Yes
+yes
 ## Does this design for elder
-Yes
+yes
 ## Does this design for everyone
-Yes
+yes
 ## Do i need college to use this
-No
+no
 ## Do i need high school to use this
-No
+no
 ## Do i need middle school to use this
-No
+no
 ## Do i need elementary school to use this
-No
+no

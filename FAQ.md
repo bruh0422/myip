@@ -89,7 +89,6 @@ yes
 yes
 ## Does it supports Laptop?
 yes
-yes
 ## Does it supports Computer?
 yes
 ## Does it supports Phone?
